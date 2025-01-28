@@ -1,0 +1,35 @@
+---
+title: "Data-Driven Strategist | Business & Data Analyst"
+image: /images/Namith.jpg  # Replace with your actual headshot image path
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/namithn12
+    - icon: github
+      text: Github
+      href: https://github.com/<your-github-username>
+---
+
+## About Me
+
+I’m **Namith Nagaraj**, an aspiring **Business & Data Analyst** from **Bengaluru, India**, currently pursuing my **Master of Science in Business Analytics** at **UC Irvine**.
+
+I have a **strong foundation in Python, SQL, R, Power BI, SPSS, and Tableau**, allowing me to work effectively with **large datasets, statistical models, and business intelligence tools** to drive **data-driven decision-making**.
+
+## 🎯 My Vision
+I aim to bridge the gap between **business strategy and technology**, using **data science, automation, and visualization** to **solve real-world problems**.
+
+## 🛠 Technical Skills
+**Programming & Analytics:** Python, R, SQL, SPSS  
+**Business Intelligence:** Power BI, Tableau, Excel  
+**Cloud & Automation:** SharePoint, PowerApps  
+**Statistical & Predictive Modeling:** Machine Learning, Forecasting, A/B Testing  
+
+## 💼 Experience Highlights
+**Amazon, India** – Optimized **transportation efficiency by 96%** through data-driven strategies.  
+**EY GDS, India** – Developed **Power BI dashboards** and automated **business workflows**.  
+**Foruppo, India** – Led **website launch project** with 100% on-time delivery.  
+
+📧 **Get in touch:** [namithn1@uci.edu](mailto:namithn1@uci.edu)  

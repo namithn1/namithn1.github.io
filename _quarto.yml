@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  title: "Namith Nagaraj's Portfolio"
+  navbar:
+    background: primary
+    right:
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/namithn12"
+        aria-label: "LinkedIn"
+      - icon: github
+        href: "https://github.com/<your-github-username>"
+        aria-label: "GitHub"
+      - text: "Contact"
+        href: contact.qmd
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Projects"
+        href: projects.qmd
+
+format:
+  html:
+    theme: cosmo  # Modern and professional theme
+    css: styles.css  # Custom styling (optional)
+    toc: true
+    toc-title: "Contents"
+    number-sections: true
+    code-fold: true
+    link-external-newwindow: true
+    link-external-icon: true
+    mainfont: "Inter, sans-serif"
+    monofont: "Fira Code, monospace"
+    highlight-style: github-dark
+
+

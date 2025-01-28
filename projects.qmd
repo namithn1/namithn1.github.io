@@ -1,0 +1,30 @@
+---
+title: "Projects"
+author: "Namith Nagaraj"
+date: "`r Sys.Date()`"
+format: 
+  html:
+    toc: true
+    toc-title: "Project List"
+    number-sections: true
+    code-fold: true
+---
+
+# Projects
+
+## 🔹 **Customer Segmentation Analysis (July 2024)**
+- **Objective:** Identified customer personas for targeted marketing  
+- **Tech Stack:** Python, Clustering, Regression  
+- **Outcome:** Built **data-driven segmentation models** to improve retention  
+
+## 🔹 **Disney+ Churn Prediction (November 2024)**
+- **Objective:** Analyzed churn patterns and optimized retention strategies  
+- **Tech Stack:** Python, Scikit-learn, Logistic Regression  
+- **Outcome:** Developed **predictive models** to reduce churn  
+
+## 🔹 **Airline Loyalty Campaign Analysis (August 2024)**
+- **Objective:** Evaluated marketing campaign effectiveness  
+- **Tech Stack:** Power BI, SQL, A/B Testing  
+- **Outcome:** Provided **strategic insights** into customer behaviors  
+
+🔗 **More details on my** [GitHub Profile](https://github.com/namithn1).  

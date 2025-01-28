@@ -1,0 +1,35 @@
+---
+title: "Namith Nagaraj"
+author: "Namith Nagaraj"
+date: "`r Sys.Date()`"
+format: 
+  html:
+    toc: false
+    code-fold: true
+---
+
+# Welcome to My Portfolio 🚀  
+
+## Hi, I'm Namith Nagaraj 👋  
+
+I am a **Business Analytics graduate student** at **UC Irvine**, specializing in **data analytics, machine learning, and business intelligence**. I leverage **Python, SQL, R, and visualization tools like Power BI & Tableau** to drive **data-driven decision-making**.
+
+I have worked with **e-commerce, consulting, and technology companies**, applying **data insights, process automation, and predictive modeling** to **optimize operations, improve efficiency, and enhance business strategy**.
+
+---
+
+## 🔹 **What You'll Find Here**
+📊 **Projects** – Explore my work in **customer segmentation, churn prediction, and business intelligence**.  
+💼 **Experience** – Learn about my **roles at Amazon, EY GDS, and Foruppo**.  
+🛠 **Skills** – Check out my expertise in **SQL, Python, R, Power BI, and machine learning**.  
+📧 **Contact** – Let's connect via **email or LinkedIn**.
+
+🔗 **Explore my projects in detail on the** [Projects Page](projects.qmd).  
+
+---
+
+## 📍 **Let’s Connect!**  
+📧 **Email:** [namithn1@uci.edu](mailto:namithn1@uci.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/namithn12](https://linkedin.com/in/namithn12)  
+
+🚀 **Looking forward to networking and collaboration!**

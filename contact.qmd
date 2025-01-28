@@ -1,0 +1,18 @@
+---
+title: "Contact"
+author: "Namith Nagaraj"
+date: "`r Sys.Date()`"
+format: 
+  html:
+    toc: false
+    code-fold: true
+---
+
+# Get in Touch
+
+I am always open to discussing new opportunities, collaborations, or any inquiries you may have. Feel free to reach out to me through the following channels:
+
+📧 **Email:** [namithn1@uci.edu](mailto:namithn1@uci.edu)  
+🔗 **LinkedIn:** [linkedin.com/in/namithn12](https://linkedin.com/in/namithn12)  
+
+🚀 **Let’s connect and create meaningful data-driven solutions!**
